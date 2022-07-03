@@ -1,0 +1,15 @@
+data/**/**/*.mp4
+data/**/**/*.h5
+
+error_analysis/plots/*
+imagens/*
+i3d/*
+evaluation_plots/*
+
+
+!data/data_crop/model_vBaseline - rwf/checkpoints/model.30.h5
+!data/data_crop/model_vBaseline - rwf/checkpoints/model.16.h5
+!data/data_crop/model_vBaseline_mixed_precision - rwf/checkpoints/model.30.h5
+!data/data_crop/model_vBaseline_mixed_precision - rwf/checkpoints/model.13.h5
+!data/data_blur/model mixed precision - rwf/checkpoints/model.30.h5
+!data/data_blur/model mixed precision - rwf/checkpoints/model.20.h5
